@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "nombre": "Dairy",
+    "descripcion": "Lácteos y derivados"
+  },
+  {
+    "id": 2,
+    "nombre": "Produce",
+    "descripcion": "Verduras y frutas"
+  },
+  {
+    "id": 3,
+    "nombre": "Bakery",
+    "descripcion": "Panadería y repostería"
+  },
+  {
+    "id": 4,
+    "nombre": "Meat & Fish",
+    "descripcion": "Carnes y pescados"
+  },
+  {
+    "id": 5,
+    "nombre": "Pantry",
+    "descripcion": "Despensa y abarrotes"
+  },
+  {
+    "id": 6,
+    "nombre": "Frozen",
+    "descripcion": "Congelados"
+  }
+]

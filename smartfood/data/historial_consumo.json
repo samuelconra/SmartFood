@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "insumo_id": 1,
+    "usuario_id": 1,
+    "tipo": "consumido",
+    "fecha_consumo": "2026-05-20T00:45:04.710Z"
+  }
+]

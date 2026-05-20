@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "nombre": "Test User",
+    "email": "test@test.com",
+    "password_hash": "87defafab1c4d4a475a76cecaeff9eea:db56ac10c155d28b32c54578b0f7db4426c223ee900958de9afe036a011883c113716a3c6253642513dd6236aad4f9689e2767dec37c63a7a5c24b318321e7a9",
+    "created_at": "2026-05-20T00:44:17.565Z"
+  },
+  {
+    "id": 2,
+    "nombre": "Prueba",
+    "email": "correo@gmail.com",
+    "password_hash": "13f1462e829bd9b7ccc94fc0a2b98c23:bf92a38edbfe659ccc4618ea9cff893330ef5ddb1124a8c8e29a3ae765110bb8c259621ebaf1ac42369ffad37305d0e426eb0abcd86c8775dc522f65edbb1a15",
+    "created_at": "2026-05-20T00:46:54.957Z"
+  }
+]

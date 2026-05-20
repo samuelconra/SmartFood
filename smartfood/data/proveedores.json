@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "usuario_id": 0,
+    "nombre": "Green Valley Farms",
+    "email": "orders@greenvalley.co",
+    "telefono": "+1 415 555 0142",
+    "created_at": "2026-05-20T00:44:04.389Z"
+  },
+  {
+    "id": 2,
+    "usuario_id": 0,
+    "nombre": "Northbay Dairy Co.",
+    "email": "supply@northbaydairy.com",
+    "telefono": "+1 415 555 0177",
+    "created_at": "2026-05-20T00:44:04.389Z"
+  },
+  {
+    "id": 3,
+    "usuario_id": 0,
+    "nombre": "Harbor Fish Market",
+    "email": "wholesale@harborfish.com",
+    "telefono": "+1 415 555 0188",
+    "created_at": "2026-05-20T00:44:04.389Z"
+  },
+  {
+    "id": 4,
+    "usuario_id": 0,
+    "nombre": "Stoneoven Bakery",
+    "email": "fulfilment@stoneoven.com",
+    "telefono": "+1 415 555 0119",
+    "created_at": "2026-05-20T00:44:04.389Z"
+  },
+  {
+    "id": 5,
+    "usuario_id": 0,
+    "nombre": "Pacific Pantry",
+    "email": "sales@pacificpantry.com",
+    "telefono": "+1 415 555 0163",
+    "created_at": "2026-05-20T00:44:04.389Z"
+  },
+  {
+    "id": 6,
+    "usuario_id": 1,
+    "nombre": "Green Valley Farms",
+    "email": "orders@greenvalley.co",
+    "telefono": "+1 415 555 0142",
+    "created_at": "2026-05-20T00:44:04.389Z"
+  },
+  {
+    "id": 7,
+    "usuario_id": 1,
+    "nombre": "Northbay Dairy Co.",
+    "email": "supply@northbaydairy.com",
+    "telefono": "+1 415 555 0177",
+    "created_at": "2026-05-20T00:44:04.389Z"
+  },
+  {
+    "id": 8,
+    "usuario_id": 1,
+    "nombre": "Harbor Fish Market",
+    "email": "wholesale@harborfish.com",
+    "telefono": "+1 415 555 0188",
+    "created_at": "2026-05-20T00:44:04.389Z"
+  },
+  {
+    "id": 9,
+    "usuario_id": 1,
+    "nombre": "Stoneoven Bakery",
+    "email": "fulfilment@stoneoven.com",
+    "telefono": "+1 415 555 0119",
+    "created_at": "2026-05-20T00:44:04.389Z"
+  },
+  {
+    "id": 10,
+    "usuario_id": 1,
+    "nombre": "Pacific Pantry",
+    "email": "sales@pacificpantry.com",
+    "telefono": "+1 415 555 0163",
+    "created_at": "2026-05-20T00:44:04.389Z"
+  },
+  {
+    "id": 11,
+    "usuario_id": 2,
+    "nombre": "Green Valley Farms",
+    "email": "orders@greenvalley.co",
+    "telefono": "+1 415 555 0142",
+    "created_at": "2026-05-20T00:44:04.389Z"
+  },
+  {
+    "id": 12,
+    "usuario_id": 2,
+    "nombre": "Northbay Dairy Co.",
+    "email": "supply@northbaydairy.com",
+    "telefono": "+1 415 555 0177",
+    "created_at": "2026-05-20T00:44:04.389Z"
+  },
+  {
+    "id": 13,
+    "usuario_id": 2,
+    "nombre": "Harbor Fish Market",
+    "email": "wholesale@harborfish.com",
+    "telefono": "+1 415 555 0188",
+    "created_at": "2026-05-20T00:44:04.389Z"
+  },
+  {
+    "id": 14,
+    "usuario_id": 2,
+    "nombre": "Stoneoven Bakery",
+    "email": "fulfilment@stoneoven.com",
+    "telefono": "+1 415 555 0119",
+    "created_at": "2026-05-20T00:44:04.389Z"
+  },
+  {
+    "id": 15,
+    "usuario_id": 2,
+    "nombre": "Pacific Pantry",
+    "email": "sales@pacificpantry.com",
+    "telefono": "+1 415 555 0163",
+    "created_at": "2026-05-20T00:44:04.389Z"
+  }
+]
