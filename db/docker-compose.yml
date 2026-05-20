@@ -1,0 +1,30 @@
+services:
+  postgres:
+    image: postgres:15-alpine
+    container_name: smartfood
+    environment:
+      POSTGRES_DB: ${DB_NAME:-smartfood-db}
+      POSTGRES_USER: ${DB_USER:-smartfood-user}
+      POSTGRES_PASSWORD: ${DB_PASSWORD:-smartfood_password}
+    ports:
+      - "${DB_PORT:-5433}:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./sql/scripts/genesis.sql:/docker-entrypoint-initdb.d/genesis.sql:ro
+      - ./sql/scripts/seeder.sql:/docker-entrypoint-initdb.d/seeder.sql:ro
+    networks:
+      - smartfood-network
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${DB_USER:-smartfood-user} -d ${DB_NAME:-smartfood-db}"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    restart: unless-stopped
+    
+volumes:
+  postgres_data:
+    driver: local
+
+networks:
+  smartfood-network:
+    driver: bridge
